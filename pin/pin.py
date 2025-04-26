@@ -45,6 +45,3 @@ with open("alunos.json", "w", encoding='utf-8') as arquivo:
     json.dump(lista_alunos, arquivo, indent=4, ensure_ascii=False)
 
 print("\n✅ Dados salvos com sucesso no arquivo 'alunos.json'!")
-
-# commit
-
