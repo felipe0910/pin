@@ -47,4 +47,3 @@ with open("alunos.json", "w", encoding='utf-8') as arquivo:
 print("\n✅ Dados salvos com sucesso no arquivo 'alunos.json'!")
 
 #....#
-#teste#
