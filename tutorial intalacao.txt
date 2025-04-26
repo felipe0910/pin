@@ -33,9 +33,10 @@ no terminal vscode selecione gitbash e Digite:
 
 3 git add .
 
-4 git commit -m "mensagem o que alterou"
+4 git commit -m "escreva o que vc alterou"
 
 5 git push
 
 
-. pronto faz com qure atualize o codigo alterado do vscode para repositorio remoto
+. pronto faz com que atualize o codigo alterado do vscode 
+para repositorio remoto
