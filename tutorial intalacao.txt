@@ -27,6 +27,8 @@ caso voce faca uma alteracao no codigo:
 
 no terminal vscode selecione gitbash e Digite:
 
+0. git pull
+
 1 git config --global user.name "seu nome"
 
 2 git config --global user.email "email criou a conta git"
