@@ -10,11 +10,13 @@ def coletar_dados_aluno():
 
     # Coleta informações básicas do aluno
     aluno['nome'] = input("Nome: ")
-    aluno['ra'] = input("RA: ")
+    aluno['genero']= input("Genero: ")
+    aluno['cor']= input("Cor: ")
     aluno['data_nascimento'] = input("Data de nascimento (dd/mm/aaaa): ")
-    aluno['turma'] = input("Turma: ")
     aluno['cpf'] = input("CPF: ")
     aluno['rg'] = input("RG: ")
+    aluno['turma'] = input("Turma: ")
+    aluno['ra'] = input("RA: ")
 
     notas = []  # Cria uma lista vazia para armazenar as notas
     qtd_notas = int(input("Quantas notas deseja inserir? "))  # Pergunta quantas notas serão inseridas

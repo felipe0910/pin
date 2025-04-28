@@ -1,19 +1,44 @@
 [
     {
-        "nome": "felipe",
-        "ra": "333",
+        "nome": "felipe ",
+        "genero": "masculino",
+        "cor": "pardo",
         "data_nascimento": "16/01/2007",
-        "turma": "1ds",
-        "cpf": "888888",
-        "rg": "333333333",
+        "cpf": "9999999",
+        "rg": "9999999",
+        "turma": "1ads",
+        "ra": "999999",
         "notas": [
-            2.0,
+            6.0,
             7.0,
+            8.0,
             9.0,
-            10.0
+            10.0,
+            5.0,
+            3.0,
+            2.0
         ],
-        "media": 7.0,
-        "mediana": 8.0,
-        "moda": 2.0
+        "media": 6.25,
+        "mediana": 6.5,
+        "moda": 6.0
+    },
+    {
+        "nome": "joao",
+        "genero": "maculino",
+        "cor": "branco",
+        "data_nascimento": "05/03/2000",
+        "cpf": "777777",
+        "rg": "777777",
+        "turma": "2ads",
+        "ra": "77777",
+        "notas": [
+            3.0,
+            9.0,
+            2.0,
+            1.0
+        ],
+        "media": 3.75,
+        "mediana": 2.5,
+        "moda": 3.0
     }
 ]
